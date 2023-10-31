@@ -1,0 +1,8 @@
+Screw
+  M1.2xL3 x1pcs
+  M1.4xL5 x3pcs
+  M3xL8 x6pcs
+  M3xL12 x8pcs
+Bearings x8pcs (InnerDiameter=3mm, OuterDiameter=8mm, Width=4mm)
+RC-Servo
+  S3108 Futaba (You can buy them on ebay.) x1pcs
